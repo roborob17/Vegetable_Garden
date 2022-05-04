@@ -1,0 +1,24 @@
+{
+    "name": "roborob17-vegetable_garden",
+    "version": "1.0.0",
+    "description": "Final assignment of testing with Jest",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest",
+        "testWatch": "jest --watchAll"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/roborob17/Vegetable_Garden.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/roborob17/Vegetable_Garden/issues"
+    },
+    "homepage": "https://github.com/Vegetable_Garden#readme",
+    "devDependencies": {
+        "jest": "^28.0.3"
+    }
+}
